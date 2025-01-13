@@ -1,0 +1,13 @@
+{
+    "commentary_text": {
+        "male": {
+            "text": "This is a good way to test it out, isn't it??",
+            "voice": "Matthew"
+        },
+        "female": {
+            "text": "This is a good way to test it out, isn't it??",
+            "voice": "Joanna"
+        }
+    },
+    "format": "mp3"
+}

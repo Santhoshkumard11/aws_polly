@@ -1,0 +1,65 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# FastAPI/Uvicorn logs
+*.log
+
+# Python cache and packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+*.whl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing and coverage
+htmlcov/
+.coverage
+*.cover
+.tox/
+.nox/
+.cache/
+pytest_cache/
+.pytest_cache/
+test-results.xml
+*.xml
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# pip-tools artifacts
+*.txt.lock
+
+# AWS credentials
+*.pem
+*.key
+.aws/
+
+# Audio output for playsound
+*.mp3
+*.wav
+output.*
